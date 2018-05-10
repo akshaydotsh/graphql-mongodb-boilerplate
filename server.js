@@ -5,7 +5,7 @@ const { graphqlExpress, graphiqlExpress }  = require('apollo-server-express');
 const { makeExecutableSchema } = require('graphql-tools');
 
 // Database Config
-const dbconfig = require('./config/dbconfig');
+const dbconfig = require('./config/databaseconfig');
 // Model
 const Book = require('./model');
 // Schema
