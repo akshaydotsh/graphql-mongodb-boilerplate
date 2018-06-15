@@ -1,4 +1,4 @@
-# graphql-mongodb-boilerplate
+# GraphQL Server with MongoDB, Node.js and apollo-server
 
 
 This is a basic implimentation of graphQL backend with mongoDB using Apollo.
